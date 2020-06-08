@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>95C71346-E107-4CC9-BAE2-4B41B7AE40D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>95C71346-E107-4CC9-BAE2-4B41B7AE40D1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PhoneApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PhoneApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace PhoneApp with scheme PhoneApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>613305018.41671503</real>
+			<key>timeStoppedRecording</key>
+			<real>613305020.78401399</real>
+			<key>title</key>
+			<string>Building workspace PhoneApp with scheme PhoneApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>95C71346-E107-4CC9-BAE2-4B41B7AE40D1</string>
+		</dict>
+		<key>FED598ED-4E0C-45AC-9EBE-59DF873F5F6B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FED598ED-4E0C-45AC-9EBE-59DF873F5F6B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PhoneApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PhoneApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace PhoneApp with scheme PhoneApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>613302012.69856906</real>
+			<key>timeStoppedRecording</key>
+			<real>613302014.78090203</real>
+			<key>title</key>
+			<string>Building workspace PhoneApp with scheme PhoneApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FED598ED-4E0C-45AC-9EBE-59DF873F5F6B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Users/nguyenthanhtu/Desktop/PhoneApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h
